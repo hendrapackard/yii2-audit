@@ -30,7 +30,7 @@
     "php": ">=5.4.0",
     "ext-bcmath": "*",
     "yiisoft/yii2": "^2.0.13",
-    "yiisoft/yii2-debug": "^2.0.7",
+    "yiisoft/yii2-debug": "<=2.1.5",
     "2amigos/yii2-chartjs-widget": "^2.0.1",
     "phpspec/php-diff": "1.*"
   },
